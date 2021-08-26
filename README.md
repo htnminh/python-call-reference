@@ -1,5 +1,5 @@
 # Python Call reference
-Quick reference to some common classes, functions and methods of Python and its popular modules.
+Quick reference to some common classes, functions and methods of Python and popular modules thereof.
 
 ![](https://github.com/htnminh/python-call-reference/blob/277f3009b113d73b587853efb2f4c0be5808bf73/docs/preview.PNG)
 
