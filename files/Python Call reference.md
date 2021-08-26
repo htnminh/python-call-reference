@@ -206,7 +206,7 @@ $$ |  $$ |$$$$$$$$\ $$ |      $$$$$$$$\ $$ |  $$ |$$$$$$$$\ $$ | \$$ |\$$$$$$  |
 
 
 # 1. PYTHON CALL REFERENCE
-**Quick reference to some common classes, functions and methods of Python and its popular modules, without examples.**
+**Quick reference to some common classes, functions and methods of Python and popular modules thereof.**
 
 For quick reference, each description only has one sentence, see the documentations provided for more details.
 
