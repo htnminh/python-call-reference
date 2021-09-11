@@ -19,7 +19,7 @@ Quick reference to some common classes, functions and methods of Python and popu
 7. [Data model (Dunder or magic methods)](https://github.com/htnminh/python-call-reference/blob/main/files/Python%20Call%20reference.md#7-data-model-dunder-or-magic-methods)
 
 # Docs:
-- [Other files](https://github.com/htnminh/pdf-python-books-docs/tree/main/Python%20Call%20reference)
+- [Other files](https://github.com/htnminh/python-call-reference/tree/main/files)
 - [LICENSE](https://github.com/htnminh/python-call-reference/blob/main/LICENSE)
 - [Code of Conduct](https://github.com/htnminh/python-call-reference/blob/main/docs/CODE_OF_CONDUCT.md)
 - [Contributing](https://github.com/htnminh/python-call-reference/blob/main/docs/CONTRIBUTING.md)
